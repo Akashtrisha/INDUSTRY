@@ -1,0 +1,16 @@
+{
+  "name": "industry-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Trisha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.4",
+    "express": "^4.22.1",
+    "nodemailer": "^8.0.2"
+  }
+}
